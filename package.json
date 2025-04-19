@@ -1,6 +1,6 @@
 {
   "name": "gemini-live-ws-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A WebSocket server for real-time interaction with gemini-live-web-sdk",
   "main": "index.js",
   "type": "module",

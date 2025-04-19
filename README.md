@@ -1,4 +1,4 @@
-# emini Live WebSocket Server
+# Gemini Live WebSocket Server for [gemini-live-web-sdk](https://www.npmjs.com/package/gemini-live-web-sdk "npm i gemini-live-web-sdk")
 
 This package provides a WebSocket server that enables real-time interaction with web frontend by using  [gemini-live-web-sdk npm module](https://www.npmjs.com/package/gemini-live-web-sdk "npm i gemini-live-web-sdk").
 
