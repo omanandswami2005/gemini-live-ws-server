@@ -4,6 +4,10 @@ This package provides a WebSocket server that enables real-time interaction with
 
 It uses Socket.IO for managing client connections and WebSocket for communication with Google's AI service.
 
+## [Click Here for StackBlitz Project](https://stackblitz.com/edit/stackblitz-starters-6fcoinwx?file=server%2Fmain.js) (full-stack Example Use)
+
+Note: Add Gemini API KEY in .env file😅
+
 ## Installation
 
 Install the package via npm:
