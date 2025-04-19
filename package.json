@@ -1,0 +1,35 @@
+{
+  "name": "gemini-live-ws-server",
+  "version": "1.0.0",
+  "description": "A WebSocket server for real-time interaction with gemini-live-web-sdk",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "socket.io": "^4.8.1",
+    "winston": "^3.17.0",
+    "ws": "^8.18.1"
+  },
+  "author": "Omanand Swami",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omanandswami2005/gemini-live-ws-server.git"
+  },
+  "keywords": [
+    "websocket",
+    "server",
+    "google",
+    "gemini",
+    "live",
+    "ai",
+    "generative",
+    "api",
+    "google-ai",
+    "real-time",
+    "socket.io"
+  ]
+}
